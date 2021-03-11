@@ -1,0 +1,10 @@
+{
+    "version": 3,
+    "mappings": "ACAA,AAAA,SAAS,CAAC;EACR,YAAY,EAAE,IAAI;CACnB",
+    "sources": [
+        "../sass/main.scss",
+        "../sass/_products.scss"
+    ],
+    "names": [],
+    "file": "main.css"
+}
