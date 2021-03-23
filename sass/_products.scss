@@ -1,9 +1,11 @@
 .products {
+  display: flex;
   background-color: teal;
   width: 200px;
   height: 100px;
 }
 
 .title-label {
+  display: flex;
   color: aqua;
 }
